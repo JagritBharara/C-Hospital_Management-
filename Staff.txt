@@ -1,0 +1,6 @@
+
+Name: Jagrit 
+Age: 22
+Salary: 1
+Position: d
+
